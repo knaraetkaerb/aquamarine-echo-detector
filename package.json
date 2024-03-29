@@ -1,0 +1,22 @@
+{
+  "name": "aquamarine-echo-detector",
+  "version": "1.0.0",
+  "description": "Enables the development of e-sports and competitive gaming platforms, fostering community and engagement in the gaming industry.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/aquamarine-echo-detector"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "citrine-dream-catcher": "1.0.0",
+    "amethyst-void-traveler": "1.0.0",
+    "supertest": "1.0.0"
+  }
+}
